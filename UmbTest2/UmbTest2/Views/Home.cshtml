@@ -1,0 +1,65 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SW_Master.cshtml";
+}
+ 
+    <div id="slideshow">
+    <ul> 
+            @{
+        var nodeIds = Model.Content.GetPropertyValue("slideshow").ToString().Split(',');
+        List<IPublishedContent> slides = new List<IPublishedContent>();
+
+        foreach (var nodeId in nodeIds)
+        {
+            if (!String.IsNullOrEmpty(nodeId))
+            {
+                var publishedContent = Umbraco.NiceUrl(Convert.ToInt32(nodeId));
+                if (!String.IsNullOrEmpty(publishedContent) && publishedContent != "#")
+                {
+                    slides.Add(Umbraco.TypedContent(nodeId));
+                }
+            }
+        }
+        }
+
+        @foreach (var slide in slides)
+        {
+            if(slide != null)
+            {
+                string styleString = !slide.IsFirst() ? "display:none;" : "";
+                <li class="rotating-panel fc" style="@styleString">
+                    <img class="fl" alt="@slide.Name" src="@slide.GetPropertyValue("mainImage")"/>
+                    <div class="">
+                    @Html.Raw(slide.GetPropertyValue("bodyText"))
+                    </div>
+                </li>
+            }
+        }
+    </ul>
+      <ul id="slidePager">
+        @foreach (var slide in slides)
+        {
+            string classString = slide.IsFirst() ? "selected" : "";
+          <li>
+            <a href="?position={position()}" class="@classString">
+              @slide.Position()
+            </a>
+          </li>
+        }
+      </ul>
+
+    </div>
+ 
+    <div class="fc">
+        <div class="feature fl">
+                    @Html.Raw(Model.Content.GetPropertyValue("panelContent1").ToString())
+             </div>
+
+        <div class="feature fl">
+                    @Html.Raw(Model.Content.GetPropertyValue("panelContent2").ToString())
+             </div>
+
+        <div class="feature fr">
+                    @Html.Raw(Model.Content.GetPropertyValue("panelContent3").ToString())
+             </div>
+    </div>

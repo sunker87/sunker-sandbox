@@ -1,0 +1,23 @@
+    @inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SW_Master.cshtml";
+
+    if(!String.IsNullOrEmpty(Request.QueryString["signout"]))
+    {
+        FormsAuthentication.SignOut();
+        Context.Response.Redirect(Model.Content.NiceUrl(), true);
+    }
+}
+ <div id="mainContent" class="fc">
+     
+      <div class="navigation">
+        @Html.Partial("LeftNavigation",@Model.Content)
+          &nbsp;
+      </div>
+
+       <div id="content">
+            @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+           
+            @Html.Partial("LoginForm",new Koiak.StandardWebsite.LoginModel())
+       </div>
+</div>

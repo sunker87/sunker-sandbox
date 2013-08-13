@@ -1,0 +1,1146 @@
+2013-08-12 22:05:14,947 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2013-08-12 22:05:14,985 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 30ms)
+2013-08-12 22:05:15,002 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:05:15,239 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 235ms)
+2013-08-12 22:05:15,360 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:05:15,386 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 26ms)
+2013-08-12 22:05:15,388 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:05:15,401 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 12ms)
+2013-08-12 22:05:15,401 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:05:15,408 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 6ms)
+2013-08-12 22:05:15,418 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:05:15,426 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 7ms)
+2013-08-12 22:05:15,426 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:05:15,431 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:15,445 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,110 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,846 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,854 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:16,855 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:18,030 [9] INFO  Umbraco.Core.ApplicationContext - [Thread 6] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:18,030 [9] WARN  Umbraco.Web.UmbracoModule - [Thread 6] Umbraco is not configured
+2013-08-12 22:05:41,623 [9] INFO  Umbraco.Core.DatabaseContext - [Thread 10] Configured a new ConnectionString using the 'System.Data.SqlServerCe.4.0' provider.
+2013-08-12 22:05:43,010 [9] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 6] Application shutdown. Reason: ConfigurationChange
+2013-08-12 22:05:44,152 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2013-08-12 22:05:44,168 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 11ms)
+2013-08-12 22:05:44,211 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:05:45,974 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1761ms)
+2013-08-12 22:05:46,020 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:05:46,031 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 10ms)
+2013-08-12 22:05:46,036 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:05:46,040 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
+2013-08-12 22:05:46,041 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:05:46,049 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 8ms)
+2013-08-12 22:05:46,050 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:05:46,058 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 7ms)
+2013-08-12 22:05:46,058 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:05:46,069 [11] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 11ms)
+2013-08-12 22:05:46,127 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,127 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,128 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,155 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,254 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,256 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:46,258 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:47,559 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 10] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:47,559 [11] INFO  Umbraco.Web.UI.Install.InstallerRestService - [Thread 10] Running 'InstallOrUpgrade' service
+2013-08-12 22:05:47,567 [11] INFO  Umbraco.Core.DatabaseContext - [Thread 10] Database configuration status: Started
+2013-08-12 22:05:49,291 [11] INFO  Umbraco.Core.ApplicationContext - [Thread 10] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:05:49,291 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Initializing database schema creation
+2013-08-12 22:05:49,561 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoNode] ([id] INTEGER NOT NULL IDENTITY(1045,1),
+[trashed] BIT NOT NULL CONSTRAINT [DF_umbracoNode_trashed] DEFAULT ('0'),
+[parentID] INTEGER NOT NULL,
+[nodeUser] INTEGER NULL,
+[level] INTEGER NOT NULL,
+[path] NVARCHAR(150) NOT NULL,
+[sortOrder] INTEGER NOT NULL,
+[uniqueID] UniqueIdentifier NULL,
+[text] NVARCHAR(255) NULL,
+[nodeObjectType] UniqueIdentifier NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoNode_createDate] DEFAULT (getdate()))
+2013-08-12 22:05:49,561 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoNode] ADD CONSTRAINT [PK_structure] PRIMARY KEY ([id])
+2013-08-12 22:05:49,563 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoNode
+2013-08-12 22:05:49,615 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoNode
+2013-08-12 22:05:49,616 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoNode] ADD CONSTRAINT [FK_umbracoNode_umbracoNode_id] FOREIGN KEY ([parentID]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:49,616 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeParentId] ON [umbracoNode] ([parentID])
+2013-08-12 22:05:49,617 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeObjectType] ON [umbracoNode] ([nodeObjectType])
+2013-08-12 22:05:49,709 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoNode' was created
+2013-08-12 22:05:49,910 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsTemplate] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[master] INTEGER NULL,
+[alias] NVARCHAR(100) NULL,
+[design] NTEXT NOT NULL)
+2013-08-12 22:05:49,910 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [PK_cmsTemplate] PRIMARY KEY ([pk])
+2013-08-12 22:05:49,910 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsTemplate
+2013-08-12 22:05:49,910 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsTemplate
+2013-08-12 22:05:49,911 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [FK_cmsTemplate_umbracoNode] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:49,911 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [FK_cmsTemplate_cmsTemplate] FOREIGN KEY ([master]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:49,912 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsTemplate_nodeId] ON [cmsTemplate] ([nodeId])
+2013-08-12 22:05:50,111 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsTemplate' was created
+2013-08-12 22:05:50,322 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContent] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[contentType] INTEGER NOT NULL)
+2013-08-12 22:05:50,323 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContent] ADD CONSTRAINT [PK_cmsContent] PRIMARY KEY ([pk])
+2013-08-12 22:05:50,323 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContent
+2013-08-12 22:05:50,323 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContent
+2013-08-12 22:05:50,323 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContent] ADD CONSTRAINT [FK_cmsContent_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:50,324 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContent] ON [cmsContent] ([nodeId])
+2013-08-12 22:05:50,431 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContent' was created
+2013-08-12 22:05:50,646 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContentVersion] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[ContentId] INTEGER NOT NULL,
+[VersionId] UniqueIdentifier NOT NULL,
+[VersionDate] DATETIME NOT NULL CONSTRAINT [DF_cmsContentVersion_VersionDate] DEFAULT (getdate()),
+[LanguageLocale] NVARCHAR(10) NULL)
+2013-08-12 22:05:50,646 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContentVersion] ADD CONSTRAINT [PK_cmsContentVersion] PRIMARY KEY ([id])
+2013-08-12 22:05:50,646 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContentVersion
+2013-08-12 22:05:50,646 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContentVersion
+2013-08-12 22:05:50,647 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentVersion] ADD CONSTRAINT [FK_cmsContentVersion_cmsContent_nodeId] FOREIGN KEY ([ContentId]) REFERENCES [cmsContent] ([nodeId])
+2013-08-12 22:05:50,647 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContentVersion_VersionId] ON [cmsContentVersion] ([VersionId])
+2013-08-12 22:05:50,743 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContentVersion' was created
+2013-08-12 22:05:50,946 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsDocument] ([nodeId] INTEGER NOT NULL,
+[published] BIT NOT NULL,
+[documentUser] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NOT NULL,
+[text] NVARCHAR(255) NOT NULL,
+[releaseDate] DATETIME NULL,
+[expireDate] DATETIME NULL,
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_cmsDocument_updateDate] DEFAULT (getdate()),
+[templateId] INTEGER NULL,
+[alias] NVARCHAR(255) NULL,
+[newest] BIT NOT NULL CONSTRAINT [DF_cmsDocument_newest] DEFAULT ('0'))
+2013-08-12 22:05:50,946 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [PK_cmsDocument] PRIMARY KEY ([versionId])
+2013-08-12 22:05:50,946 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsDocument
+2013-08-12 22:05:50,946 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsDocument
+2013-08-12 22:05:50,947 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2013-08-12 22:05:50,947 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:50,947 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_cmsTemplate_nodeId] FOREIGN KEY ([templateId]) REFERENCES [cmsTemplate] ([nodeId])
+2013-08-12 22:05:50,948 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDocument] ON [cmsDocument] ([nodeId],[versionId])
+2013-08-12 22:05:51,158 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsDocument' was created
+2013-08-12 22:05:51,389 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContentType] ([pk] INTEGER NOT NULL IDENTITY(535,1),
+[nodeId] INTEGER NOT NULL,
+[alias] NVARCHAR(255) NULL,
+[icon] NVARCHAR(255) NULL,
+[thumbnail] NVARCHAR(255) NOT NULL CONSTRAINT [DF_cmsContentType_thumbnail] DEFAULT ('folder.png'),
+[description] NVARCHAR(1500) NULL,
+[isContainer] BIT NOT NULL CONSTRAINT [DF_cmsContentType_isContainer] DEFAULT ('0'),
+[allowAtRoot] BIT NOT NULL CONSTRAINT [DF_cmsContentType_allowAtRoot] DEFAULT ('0'))
+2013-08-12 22:05:51,390 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContentType] ADD CONSTRAINT [PK_cmsContentType] PRIMARY KEY ([pk])
+2013-08-12 22:05:51,390 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContentType
+2013-08-12 22:05:51,393 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContentType
+2013-08-12 22:05:51,394 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType] ADD CONSTRAINT [FK_cmsContentType_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:51,396 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContentType] ON [cmsContentType] ([nodeId])
+2013-08-12 22:05:51,397 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsContentType_icon] ON [cmsContentType] ([icon])
+2013-08-12 22:05:51,576 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContentType' was created
+2013-08-12 22:05:51,786 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsDocumentType] ([contentTypeNodeId] INTEGER NOT NULL,
+[templateNodeId] INTEGER NOT NULL,
+[IsDefault] BIT NOT NULL CONSTRAINT [DF_cmsDocumentType_IsDefault] DEFAULT ('0'))
+2013-08-12 22:05:51,787 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [PK_cmsDocumentType] PRIMARY KEY ([contentTypeNodeId], [templateNodeId])
+2013-08-12 22:05:51,787 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsDocumentType
+2013-08-12 22:05:51,787 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsDocumentType
+2013-08-12 22:05:51,787 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_cmsContentType_nodeId] FOREIGN KEY ([contentTypeNodeId]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:05:51,788 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_umbracoNode_id] FOREIGN KEY ([contentTypeNodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:51,788 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_cmsTemplate_nodeId] FOREIGN KEY ([templateNodeId]) REFERENCES [cmsTemplate] ([nodeId])
+2013-08-12 22:05:51,954 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsDocumentType' was created
+2013-08-12 22:05:52,189 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsDataType] ([pk] INTEGER NOT NULL IDENTITY(25,1),
+[nodeId] INTEGER NOT NULL,
+[controlId] UniqueIdentifier NOT NULL,
+[dbType] NVARCHAR(50) NOT NULL)
+2013-08-12 22:05:52,190 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsDataType] ADD CONSTRAINT [PK_cmsDataType] PRIMARY KEY ([pk])
+2013-08-12 22:05:52,190 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsDataType
+2013-08-12 22:05:52,213 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsDataType
+2013-08-12 22:05:52,214 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDataType] ADD CONSTRAINT [FK_cmsDataType_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:52,215 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDataType_nodeId] ON [cmsDataType] ([nodeId])
+2013-08-12 22:05:52,320 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsDataType' was created
+2013-08-12 22:05:52,522 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsDataTypePreValues] ([id] INTEGER NOT NULL IDENTITY(5,1),
+[datatypeNodeId] INTEGER NOT NULL,
+[value] NVARCHAR(2500) NULL,
+[sortorder] INTEGER NOT NULL,
+[alias] NVARCHAR(50) NULL)
+2013-08-12 22:05:52,522 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsDataTypePreValues] ADD CONSTRAINT [PK_cmsDataTypePreValues] PRIMARY KEY ([id])
+2013-08-12 22:05:52,523 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsDataTypePreValues
+2013-08-12 22:05:52,527 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsDataTypePreValues
+2013-08-12 22:05:52,528 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDataTypePreValues] ADD CONSTRAINT [FK_cmsDataTypePreValues_cmsDataType_nodeId] FOREIGN KEY ([datatypeNodeId]) REFERENCES [cmsDataType] ([nodeId])
+2013-08-12 22:05:52,657 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsDataTypePreValues' was created
+2013-08-12 22:05:52,861 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsDictionary] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[id] UniqueIdentifier NOT NULL,
+[parent] UniqueIdentifier NOT NULL,
+[key] NVARCHAR(1000) NOT NULL)
+2013-08-12 22:05:52,861 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsDictionary] ADD CONSTRAINT [PK_cmsDictionary] PRIMARY KEY ([pk])
+2013-08-12 22:05:52,862 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsDictionary
+2013-08-12 22:05:52,862 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsDictionary
+2013-08-12 22:05:52,862 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDictionary_id] ON [cmsDictionary] ([id])
+2013-08-12 22:05:52,976 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsDictionary' was created
+2013-08-12 22:05:53,204 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsLanguageText] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[languageId] INTEGER NOT NULL,
+[UniqueId] UniqueIdentifier NOT NULL,
+[value] NVARCHAR(1000) NOT NULL)
+2013-08-12 22:05:53,205 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [PK_cmsLanguageText] PRIMARY KEY ([pk])
+2013-08-12 22:05:53,205 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsLanguageText
+2013-08-12 22:05:53,205 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsLanguageText
+2013-08-12 22:05:53,206 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [FK_cmsLanguageText_cmsDictionary_id] FOREIGN KEY ([UniqueId]) REFERENCES [cmsDictionary] ([id])
+2013-08-12 22:05:53,378 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsLanguageText' was created
+2013-08-12 22:05:53,578 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoLanguage] ([id] INTEGER NOT NULL IDENTITY(2,1),
+[languageISOCode] NVARCHAR(10) NULL,
+[languageCultureName] NVARCHAR(100) NULL)
+2013-08-12 22:05:53,578 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoLanguage] ADD CONSTRAINT [PK_umbracoLanguage] PRIMARY KEY ([id])
+2013-08-12 22:05:53,578 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoLanguage
+2013-08-12 22:05:53,579 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoLanguage
+2013-08-12 22:05:53,581 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoLanguage_languageISOCode] ON [umbracoLanguage] ([languageISOCode])
+2013-08-12 22:05:53,891 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoLanguage' was created
+2013-08-12 22:05:54,097 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoDomains] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[domainDefaultLanguage] INTEGER NULL,
+[domainRootStructureID] INTEGER NULL,
+[domainName] NVARCHAR(255) NOT NULL)
+2013-08-12 22:05:54,097 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoDomains] ADD CONSTRAINT [PK_umbracoDomains] PRIMARY KEY ([id])
+2013-08-12 22:05:54,098 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoDomains
+2013-08-12 22:05:54,098 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoDomains
+2013-08-12 22:05:54,098 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoDomains] ADD CONSTRAINT [FK_umbracoDomains_umbracoNode_id] FOREIGN KEY ([domainRootStructureID]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:54,248 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoDomains' was created
+2013-08-12 22:05:54,453 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoLog] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userId] INTEGER NOT NULL,
+[NodeId] INTEGER NOT NULL,
+[Datestamp] DATETIME NOT NULL CONSTRAINT [DF_umbracoLog_Datestamp] DEFAULT (getdate()),
+[logHeader] NVARCHAR(50) NOT NULL,
+[logComment] NVARCHAR(4000) NULL)
+2013-08-12 22:05:54,453 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoLog] ADD CONSTRAINT [PK_umbracoLog] PRIMARY KEY ([id])
+2013-08-12 22:05:54,454 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoLog
+2013-08-12 22:05:54,454 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoLog
+2013-08-12 22:05:54,454 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoLog] ON [umbracoLog] ([NodeId])
+2013-08-12 22:05:54,555 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoLog' was created
+2013-08-12 22:05:54,782 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMacro] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[macroUseInEditor] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroUseInEditor] DEFAULT ('0'),
+[macroRefreshRate] INTEGER NOT NULL CONSTRAINT [DF_cmsMacro_macroRefreshRate] DEFAULT ('0'),
+[macroAlias] NVARCHAR(255) NOT NULL,
+[macroName] NVARCHAR(255) NULL,
+[macroScriptType] NVARCHAR(255) NULL,
+[macroScriptAssembly] NVARCHAR(255) NULL,
+[macroXSLT] NVARCHAR(255) NULL,
+[macroCacheByPage] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroCacheByPage] DEFAULT ('1'),
+[macroCachePersonalized] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroCachePersonalized] DEFAULT ('0'),
+[macroDontRender] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroDontRender] DEFAULT ('0'),
+[macroPython] NVARCHAR(255) NULL)
+2013-08-12 22:05:54,782 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMacro] ADD CONSTRAINT [PK_cmsMacro] PRIMARY KEY ([id])
+2013-08-12 22:05:54,783 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMacro
+2013-08-12 22:05:54,783 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMacro
+2013-08-12 22:05:54,911 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMacro' was created
+2013-08-12 22:05:55,118 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMacroPropertyType] ([id] INTEGER NOT NULL IDENTITY(26,1),
+[macroPropertyTypeAlias] NVARCHAR(50) NULL,
+[macroPropertyTypeRenderAssembly] NVARCHAR(255) NULL,
+[macroPropertyTypeRenderType] NVARCHAR(255) NULL,
+[macroPropertyTypeBaseType] NVARCHAR(255) NULL)
+2013-08-12 22:05:55,118 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMacroPropertyType] ADD CONSTRAINT [PK_cmsMacroPropertyType] PRIMARY KEY ([id])
+2013-08-12 22:05:55,118 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMacroPropertyType
+2013-08-12 22:05:55,133 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMacroPropertyType
+2013-08-12 22:05:55,210 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMacroPropertyType' was created
+2013-08-12 22:05:55,412 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMacroProperty] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[macroPropertyHidden] BIT NOT NULL CONSTRAINT [DF_cmsMacroProperty_macroPropertyHidden] DEFAULT ('0'),
+[macroPropertyType] INTEGER NOT NULL,
+[macro] INTEGER NOT NULL,
+[macroPropertySortOrder] INTEGER NOT NULL CONSTRAINT [DF_cmsMacroProperty_macroPropertySortOrder] DEFAULT ('0'),
+[macroPropertyAlias] NVARCHAR(50) NOT NULL,
+[macroPropertyName] NVARCHAR(255) NOT NULL)
+2013-08-12 22:05:55,413 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMacroProperty] ADD CONSTRAINT [PK_cmsMacroProperty] PRIMARY KEY ([id])
+2013-08-12 22:05:55,413 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMacroProperty
+2013-08-12 22:05:55,413 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMacroProperty
+2013-08-12 22:05:55,414 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMacroProperty] ADD CONSTRAINT [FK_cmsMacroProperty_cmsMacroPropertyType_id] FOREIGN KEY ([macroPropertyType]) REFERENCES [cmsMacroPropertyType] ([id])
+2013-08-12 22:05:55,414 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMacroProperty] ADD CONSTRAINT [FK_cmsMacroProperty_cmsMacro_id] FOREIGN KEY ([macro]) REFERENCES [cmsMacro] ([id])
+2013-08-12 22:05:55,547 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMacroProperty' was created
+2013-08-12 22:05:55,768 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMemberType] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[NodeId] INTEGER NOT NULL,
+[propertytypeId] INTEGER NOT NULL,
+[memberCanEdit] BIT NOT NULL CONSTRAINT [DF_cmsMemberType_memberCanEdit] DEFAULT ('0'),
+[viewOnProfile] BIT NOT NULL CONSTRAINT [DF_cmsMemberType_viewOnProfile] DEFAULT ('0'))
+2013-08-12 22:05:55,768 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [PK_cmsMemberType] PRIMARY KEY ([pk])
+2013-08-12 22:05:55,768 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMemberType
+2013-08-12 22:05:55,768 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMemberType
+2013-08-12 22:05:55,770 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [FK_cmsMemberType_umbracoNode_id] FOREIGN KEY ([NodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:55,770 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [FK_cmsMemberType_cmsContentType_nodeId] FOREIGN KEY ([NodeId]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:05:55,865 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMemberType' was created
+2013-08-12 22:05:56,070 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMember] ([nodeId] INTEGER NOT NULL,
+[Email] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_Email] DEFAULT (''''),
+[LoginName] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_LoginName] DEFAULT (''''),
+[Password] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_Password] DEFAULT (''''))
+2013-08-12 22:05:56,071 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [PK_cmsMember] PRIMARY KEY ([nodeId])
+2013-08-12 22:05:56,071 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMember
+2013-08-12 22:05:56,071 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMember
+2013-08-12 22:05:56,073 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [FK_cmsMember_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:56,075 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [FK_cmsMember_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2013-08-12 22:05:56,199 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMember' was created
+2013-08-12 22:05:56,419 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsMember2MemberGroup] ([Member] INTEGER NOT NULL,
+[MemberGroup] INTEGER NOT NULL)
+2013-08-12 22:05:56,420 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [PK_cmsMember2MemberGroup] PRIMARY KEY ([Member], [MemberGroup])
+2013-08-12 22:05:56,420 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsMember2MemberGroup
+2013-08-12 22:05:56,420 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsMember2MemberGroup
+2013-08-12 22:05:56,421 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [FK_cmsMember2MemberGroup_cmsMember_nodeId] FOREIGN KEY ([Member]) REFERENCES [cmsMember] ([nodeId])
+2013-08-12 22:05:56,422 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [FK_cmsMember2MemberGroup_umbracoNode_id] FOREIGN KEY ([MemberGroup]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:56,567 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsMember2MemberGroup' was created
+2013-08-12 22:05:56,813 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContentXml] ([nodeId] INTEGER NOT NULL,
+[xml] NTEXT NOT NULL)
+2013-08-12 22:05:56,814 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContentXml] ADD CONSTRAINT [PK_cmsContentXml] PRIMARY KEY ([nodeId])
+2013-08-12 22:05:56,814 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContentXml
+2013-08-12 22:05:56,814 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContentXml
+2013-08-12 22:05:56,816 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentXml] ADD CONSTRAINT [FK_cmsContentXml_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2013-08-12 22:05:57,164 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContentXml' was created
+2013-08-12 22:05:57,401 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsPreviewXml] ([nodeId] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NOT NULL,
+[timestamp] DATETIME NOT NULL,
+[xml] NTEXT NOT NULL)
+2013-08-12 22:05:57,401 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [PK_cmsPreviewXml] PRIMARY KEY ([nodeId], [versionId])
+2013-08-12 22:05:57,401 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsPreviewXml
+2013-08-12 22:05:57,401 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsPreviewXml
+2013-08-12 22:05:57,402 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [FK_cmsPreviewXml_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2013-08-12 22:05:57,403 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [FK_cmsPreviewXml_cmsContentVersion_VersionId] FOREIGN KEY ([versionId]) REFERENCES [cmsContentVersion] ([VersionId])
+2013-08-12 22:05:57,544 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsPreviewXml' was created
+2013-08-12 22:05:57,743 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsPropertyTypeGroup] ([id] INTEGER NOT NULL IDENTITY(6,1),
+[parentGroupId] INTEGER NULL,
+[contenttypeNodeId] INTEGER NOT NULL,
+[text] NVARCHAR(255) NOT NULL,
+[sortorder] INTEGER NOT NULL)
+2013-08-12 22:05:57,744 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [PK_cmsPropertyTypeGroup] PRIMARY KEY ([id])
+2013-08-12 22:05:57,744 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsPropertyTypeGroup
+2013-08-12 22:05:57,746 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsPropertyTypeGroup
+2013-08-12 22:05:57,749 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [FK_cmsPropertyTypeGroup_cmsPropertyTypeGroup_id] FOREIGN KEY ([parentGroupId]) REFERENCES [cmsPropertyTypeGroup] ([id])
+2013-08-12 22:05:57,751 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [FK_cmsPropertyTypeGroup_cmsContentType_nodeId] FOREIGN KEY ([contenttypeNodeId]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:05:57,876 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsPropertyTypeGroup' was created
+2013-08-12 22:05:58,096 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsPropertyType] ([id] INTEGER NOT NULL IDENTITY(28,1),
+[dataTypeId] INTEGER NOT NULL,
+[contentTypeId] INTEGER NOT NULL,
+[propertyTypeGroupId] INTEGER NULL,
+[Alias] NVARCHAR(255) NOT NULL,
+[Name] NVARCHAR(255) NULL,
+[helpText] NVARCHAR(1000) NULL,
+[sortOrder] INTEGER NOT NULL CONSTRAINT [DF_cmsPropertyType_sortOrder] DEFAULT ('0'),
+[mandatory] BIT NOT NULL CONSTRAINT [DF_cmsPropertyType_mandatory] DEFAULT ('0'),
+[validationRegExp] NVARCHAR(255) NULL,
+[Description] NVARCHAR(2000) NULL)
+2013-08-12 22:05:58,097 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [PK_cmsPropertyType] PRIMARY KEY ([id])
+2013-08-12 22:05:58,097 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsPropertyType
+2013-08-12 22:05:58,114 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsPropertyType
+2013-08-12 22:05:58,115 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsDataType_nodeId] FOREIGN KEY ([dataTypeId]) REFERENCES [cmsDataType] ([nodeId])
+2013-08-12 22:05:58,116 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsContentType_nodeId] FOREIGN KEY ([contentTypeId]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:05:58,117 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsPropertyTypeGroup_id] FOREIGN KEY ([propertyTypeGroupId]) REFERENCES [cmsPropertyTypeGroup] ([id])
+2013-08-12 22:05:58,250 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsPropertyType' was created
+2013-08-12 22:05:58,461 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsPropertyData] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[contentNodeId] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NULL,
+[propertytypeid] INTEGER NOT NULL,
+[dataInt] INTEGER NULL,
+[dataDate] DATETIME NULL,
+[dataNvarchar] NVARCHAR(500) NULL,
+[dataNtext] NTEXT NULL)
+2013-08-12 22:05:58,461 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [PK_cmsPropertyData] PRIMARY KEY ([id])
+2013-08-12 22:05:58,461 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsPropertyData
+2013-08-12 22:05:58,461 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsPropertyData
+2013-08-12 22:05:58,463 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [FK_cmsPropertyData_umbracoNode_id] FOREIGN KEY ([contentNodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:58,463 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [FK_cmsPropertyData_cmsPropertyType_id] FOREIGN KEY ([propertytypeid]) REFERENCES [cmsPropertyType] ([id])
+2013-08-12 22:05:58,464 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData] ON [cmsPropertyData] ([id])
+2013-08-12 22:05:58,465 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_1] ON [cmsPropertyData] ([contentNodeId])
+2013-08-12 22:05:58,466 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_2] ON [cmsPropertyData] ([versionId])
+2013-08-12 22:05:58,468 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_3] ON [cmsPropertyData] ([propertytypeid])
+2013-08-12 22:05:58,647 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsPropertyData' was created
+2013-08-12 22:05:58,851 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoRelationType] ([id] INTEGER NOT NULL IDENTITY(2,1),
+[dual] BIT NOT NULL,
+[parentObjectType] UniqueIdentifier NOT NULL,
+[childObjectType] UniqueIdentifier NOT NULL,
+[name] NVARCHAR(255) NOT NULL,
+[alias] NVARCHAR(100) NULL)
+2013-08-12 22:05:58,852 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoRelationType] ADD CONSTRAINT [PK_umbracoRelationType] PRIMARY KEY ([id])
+2013-08-12 22:05:58,852 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoRelationType
+2013-08-12 22:05:58,854 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoRelationType
+2013-08-12 22:05:58,932 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoRelationType' was created
+2013-08-12 22:05:59,136 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoRelation] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[parentId] INTEGER NOT NULL,
+[childId] INTEGER NOT NULL,
+[relType] INTEGER NOT NULL,
+[datetime] DATETIME NOT NULL CONSTRAINT [DF_umbracoRelation_datetime] DEFAULT (getdate()),
+[comment] NVARCHAR(1000) NOT NULL)
+2013-08-12 22:05:59,137 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [PK_umbracoRelation] PRIMARY KEY ([id])
+2013-08-12 22:05:59,137 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoRelation
+2013-08-12 22:05:59,137 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoRelation
+2013-08-12 22:05:59,139 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoNode] FOREIGN KEY ([parentId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:59,140 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoNode1] FOREIGN KEY ([childId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:59,140 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoRelationType_id] FOREIGN KEY ([relType]) REFERENCES [umbracoRelationType] ([id])
+2013-08-12 22:05:59,278 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoRelation' was created
+2013-08-12 22:05:59,484 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsStylesheet] ([nodeId] INTEGER NOT NULL,
+[filename] NVARCHAR(100) NOT NULL,
+[content] NTEXT NULL)
+2013-08-12 22:05:59,484 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsStylesheet] ADD CONSTRAINT [PK_cmsStylesheet] PRIMARY KEY ([nodeId])
+2013-08-12 22:05:59,484 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsStylesheet
+2013-08-12 22:05:59,484 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsStylesheet
+2013-08-12 22:05:59,486 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsStylesheet] ADD CONSTRAINT [FK_cmsStylesheet_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:05:59,602 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsStylesheet' was created
+2013-08-12 22:05:59,835 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsStylesheetProperty] ([nodeId] INTEGER NOT NULL,
+[stylesheetPropertyEditor] BIT NULL,
+[stylesheetPropertyAlias] NVARCHAR(50) NULL,
+[stylesheetPropertyValue] NVARCHAR(400) NULL)
+2013-08-12 22:05:59,836 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsStylesheetProperty] ADD CONSTRAINT [PK_cmsStylesheetProperty] PRIMARY KEY ([nodeId])
+2013-08-12 22:05:59,836 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsStylesheetProperty
+2013-08-12 22:05:59,836 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsStylesheetProperty
+2013-08-12 22:05:59,966 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsStylesheetProperty' was created
+2013-08-12 22:06:00,179 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsTags] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[tag] NVARCHAR(200) NULL,
+[ParentId] INTEGER NULL,
+[group] NVARCHAR(100) NULL)
+2013-08-12 22:06:00,180 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsTags] ADD CONSTRAINT [PK_cmsTags] PRIMARY KEY ([id])
+2013-08-12 22:06:00,180 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsTags
+2013-08-12 22:06:00,180 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsTags
+2013-08-12 22:06:00,277 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsTags' was created
+2013-08-12 22:06:00,482 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsTagRelationship] ([nodeId] INTEGER NOT NULL,
+[tagId] INTEGER NOT NULL)
+2013-08-12 22:06:00,483 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [PK_cmsTagRelationship] PRIMARY KEY ([nodeId], [tagId])
+2013-08-12 22:06:00,483 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsTagRelationship
+2013-08-12 22:06:00,483 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsTagRelationship
+2013-08-12 22:06:00,484 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [FK_cmsTagRelationship_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:00,485 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [FK_cmsTagRelationship_cmsTags_id] FOREIGN KEY ([tagId]) REFERENCES [cmsTags] ([id])
+2013-08-12 22:06:00,598 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsTagRelationship' was created
+2013-08-12 22:06:00,807 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUserLogins] ([contextID] UniqueIdentifier NOT NULL,
+[userID] INTEGER NOT NULL,
+[timeout] BIGINT NOT NULL)
+2013-08-12 22:06:00,807 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUserLogins
+2013-08-12 22:06:00,807 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUserLogins
+2013-08-12 22:06:00,808 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [umbracoUserLogins_Index] ON [umbracoUserLogins] ([contextID])
+2013-08-12 22:06:00,956 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUserLogins' was created
+2013-08-12 22:06:01,168 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUserType] ([id] INTEGER NOT NULL IDENTITY(5,1),
+[userTypeAlias] NVARCHAR(50) NULL,
+[userTypeName] NVARCHAR(255) NOT NULL,
+[userTypeDefaultPermissions] NVARCHAR(50) NULL)
+2013-08-12 22:06:01,169 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoUserType] ADD CONSTRAINT [PK_umbracoUserType] PRIMARY KEY ([id])
+2013-08-12 22:06:01,169 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUserType
+2013-08-12 22:06:01,171 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUserType
+2013-08-12 22:06:01,278 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUserType' was created
+2013-08-12 22:06:01,484 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUser] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userDisabled] BIT NOT NULL CONSTRAINT [DF_umbracoUser_userDisabled] DEFAULT ('0'),
+[userNoConsole] BIT NOT NULL CONSTRAINT [DF_umbracoUser_userNoConsole] DEFAULT ('0'),
+[userType] INTEGER NOT NULL,
+[startStructureID] INTEGER NOT NULL,
+[startMediaID] INTEGER NULL,
+[userName] NVARCHAR(255) NOT NULL,
+[userLogin] NVARCHAR(125) NOT NULL,
+[userPassword] NVARCHAR(125) NOT NULL,
+[userEmail] NVARCHAR(255) NOT NULL,
+[userDefaultPermissions] NVARCHAR(50) NULL,
+[userLanguage] NVARCHAR(10) NULL,
+[defaultToLiveEditing] BIT NOT NULL CONSTRAINT [DF_umbracoUser_defaultToLiveEditing] DEFAULT ('0'))
+2013-08-12 22:06:01,485 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoUser] ADD CONSTRAINT [PK_user] PRIMARY KEY ([id])
+2013-08-12 22:06:01,485 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUser
+2013-08-12 22:06:01,488 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUser
+2013-08-12 22:06:01,493 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser] ADD CONSTRAINT [FK_umbracoUser_umbracoUserType_id] FOREIGN KEY ([userType]) REFERENCES [umbracoUserType] ([id])
+2013-08-12 22:06:01,493 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoUser_userLogin] ON [umbracoUser] ([userLogin])
+2013-08-12 22:06:01,716 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUser' was created
+2013-08-12 22:06:01,938 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsTaskType] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[alias] NVARCHAR(255) NOT NULL)
+2013-08-12 22:06:01,939 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsTaskType] ADD CONSTRAINT [PK_cmsTaskType] PRIMARY KEY ([id])
+2013-08-12 22:06:01,939 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsTaskType
+2013-08-12 22:06:01,940 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsTaskType
+2013-08-12 22:06:01,941 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsTaskType_alias] ON [cmsTaskType] ([alias])
+2013-08-12 22:06:02,143 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsTaskType' was created
+2013-08-12 22:06:02,377 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsTask] ([closed] BIT NOT NULL CONSTRAINT [DF_cmsTask_closed] DEFAULT ('0'),
+[id] INTEGER NOT NULL IDENTITY(1,1),
+[taskTypeId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[parentUserId] INTEGER NOT NULL,
+[userId] INTEGER NOT NULL,
+[DateTime] DATETIME NOT NULL CONSTRAINT [DF_cmsTask_DateTime] DEFAULT (getdate()),
+[Comment] NVARCHAR(500) NULL)
+2013-08-12 22:06:02,378 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [PK_cmsTask] PRIMARY KEY ([id])
+2013-08-12 22:06:02,378 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsTask
+2013-08-12 22:06:02,378 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsTask
+2013-08-12 22:06:02,379 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_cmsTaskType_id] FOREIGN KEY ([taskTypeId]) REFERENCES [cmsTaskType] ([id])
+2013-08-12 22:06:02,380 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:02,382 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoUser] FOREIGN KEY ([parentUserId]) REFERENCES [umbracoUser] ([id])
+2013-08-12 22:06:02,383 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoUser1] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2013-08-12 22:06:02,683 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsTask' was created
+2013-08-12 22:06:02,915 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContentType2ContentType] ([parentContentTypeId] INTEGER NOT NULL,
+[childContentTypeId] INTEGER NOT NULL)
+2013-08-12 22:06:02,916 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [PK_cmsContentType2ContentType] PRIMARY KEY ([parentContentTypeId], [childContentTypeId])
+2013-08-12 22:06:02,916 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContentType2ContentType
+2013-08-12 22:06:02,916 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContentType2ContentType
+2013-08-12 22:06:02,917 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [FK_cmsContentType2ContentType_umbracoNode_parent] FOREIGN KEY ([parentContentTypeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:02,918 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [FK_cmsContentType2ContentType_umbracoNode_child] FOREIGN KEY ([childContentTypeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:03,080 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContentType2ContentType' was created
+2013-08-12 22:06:03,284 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [cmsContentTypeAllowedContentType] ([Id] INTEGER NOT NULL,
+[AllowedId] INTEGER NOT NULL,
+[SortOrder] INTEGER NOT NULL CONSTRAINT df_cmsContentTypeAllowedContentType_sortOrder DEFAULT ('0'))
+2013-08-12 22:06:03,285 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [PK_cmsContentTypeAllowedContentType] PRIMARY KEY ([Id], [AllowedId])
+2013-08-12 22:06:03,285 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table cmsContentTypeAllowedContentType
+2013-08-12 22:06:03,286 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table cmsContentTypeAllowedContentType
+2013-08-12 22:06:03,292 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [FK_cmsContentTypeAllowedContentType_cmsContentType] FOREIGN KEY ([Id]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:06:03,294 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [FK_cmsContentTypeAllowedContentType_cmsContentType1] FOREIGN KEY ([AllowedId]) REFERENCES [cmsContentType] ([nodeId])
+2013-08-12 22:06:03,456 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'cmsContentTypeAllowedContentType' was created
+2013-08-12 22:06:03,686 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUser2app] ([user] INTEGER NOT NULL,
+[app] NVARCHAR(50) NOT NULL)
+2013-08-12 22:06:03,687 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2app] ADD CONSTRAINT [PK_user2app] PRIMARY KEY ([user], [app])
+2013-08-12 22:06:03,687 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUser2app
+2013-08-12 22:06:03,689 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUser2app
+2013-08-12 22:06:03,690 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2app] ADD CONSTRAINT [FK_umbracoUser2app_umbracoUser_id] FOREIGN KEY ([user]) REFERENCES [umbracoUser] ([id])
+2013-08-12 22:06:03,827 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUser2app' was created
+2013-08-12 22:06:04,068 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUser2NodeNotify] ([userId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[action] NCHAR(1) NOT NULL)
+2013-08-12 22:06:04,069 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [PK_umbracoUser2NodeNotify] PRIMARY KEY ([userId], [nodeId], [action])
+2013-08-12 22:06:04,069 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUser2NodeNotify
+2013-08-12 22:06:04,069 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUser2NodeNotify
+2013-08-12 22:06:04,071 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [FK_umbracoUser2NodeNotify_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2013-08-12 22:06:04,072 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [FK_umbracoUser2NodeNotify_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:04,156 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUser2NodeNotify' was created
+2013-08-12 22:06:04,358 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoUser2NodePermission] ([userId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[permission] NVARCHAR(255) NOT NULL)
+2013-08-12 22:06:04,359 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [PK_umbracoUser2NodePermission] PRIMARY KEY ([userId], [nodeId], [permission])
+2013-08-12 22:06:04,359 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoUser2NodePermission
+2013-08-12 22:06:04,359 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoUser2NodePermission
+2013-08-12 22:06:04,360 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [FK_umbracoUser2NodePermission_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2013-08-12 22:06:04,366 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [FK_umbracoUser2NodePermission_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2013-08-12 22:06:04,630 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoUser2NodePermission' was created
+2013-08-12 22:06:04,891 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Table sql -1:
+ CREATE TABLE [umbracoServer] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[address] NVARCHAR(500) NOT NULL,
+[computerName] NVARCHAR(255) NOT NULL,
+[registeredDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoServer_registeredDate] DEFAULT (getdate()),
+[lastNotifiedDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoServer_lastNotifiedDate] DEFAULT (getdate()),
+[isActive] BIT NOT NULL)
+2013-08-12 22:06:04,891 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Primary Key sql -1:
+ ALTER TABLE [umbracoServer] ADD CONSTRAINT [PK_umbracoServer] PRIMARY KEY ([id])
+2013-08-12 22:06:04,891 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Creating data in table umbracoServer
+2013-08-12 22:06:04,891 [11] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 10] Done creating data in table umbracoServer
+2013-08-12 22:06:04,892 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_computerName] ON [umbracoServer] ([computerName])
+2013-08-12 22:06:04,892 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoServer_isActive] ON [umbracoServer] ([isActive])
+2013-08-12 22:06:05,121 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] New table 'umbracoServer' was created
+2013-08-12 22:06:05,121 [11] INFO  Umbraco.Core.Persistence.Database - [Thread 10] Finalized database schema creation
+2013-08-12 22:06:05,123 [11] INFO  Umbraco.Core.DatabaseContext - [Thread 10] Database configuration status: <p>Installation completed!</p>
+2013-08-12 22:06:05,171 [11] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: ConfigurationChange
+2013-08-12 22:06:06,113 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2013-08-12 22:06:06,127 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 10ms)
+2013-08-12 22:06:06,133 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:06:06,250 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 116ms)
+2013-08-12 22:06:06,323 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:06:06,325 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-08-12 22:06:06,327 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:06:06,328 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 1ms)
+2013-08-12 22:06:06,328 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:06:06,329 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 0ms)
+2013-08-12 22:06:06,331 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:06:06,332 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2013-08-12 22:06:06,332 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:06:06,332 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,380 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,384 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,384 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,384 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,384 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,385 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,603 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,605 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:06,608 [15] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '6.1.3',''
+2013-08-12 22:06:58,298 [15] INFO  Umbraco.Web.Security.WebSecurity - [Thread 13] User Id: 0 logged in
+2013-08-12 22:06:58,365 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 22:06:58,582 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 216ms)
+2013-08-12 22:07:11,716 [15] INFO  Umbraco.Core.Configuration.ClientDependencyConfiguration - [Thread 6] Updated version number from 1 to 2
+2013-08-12 22:07:11,961 [15] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 10] Application shutdown. Reason: ConfigurationChange
+2013-08-12 22:07:13,738 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2013-08-12 22:07:13,747 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 9ms)
+2013-08-12 22:07:13,747 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:07:13,961 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 212ms)
+2013-08-12 22:07:14,090 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:07:14,091 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2013-08-12 22:07:14,093 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:07:14,093 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 0ms)
+2013-08-12 22:07:14,094 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:07:14,095 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 1ms)
+2013-08-12 22:07:14,097 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:07:14,098 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2013-08-12 22:07:14,098 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:07:14,099 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2013-08-12 22:07:14,650 [20] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Initializing Examine and binding to business logic events
+2013-08-12 22:07:15,950 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 22:07:15,954 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2013-08-12 22:07:16,155 [20] INFO  umbraco.content - [Thread 18] Loading content from database...
+2013-08-12 22:07:16,218 [20] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Adding examine event handlers for index providers: 3
+2013-08-12 22:07:16,225 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 22:07:18,282 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 2057ms)
+2013-08-12 22:07:18,326 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:07:18,375 [20] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 49ms)
+2013-08-12 22:07:18,725 [20] INFO  Umbraco.Web.UI.Install.InstallerRestService - [Thread 17] Hitting Page_Load on InstallerRestService.aspx for the requested 'sitebuildervids' feed
+2013-08-12 22:07:18,753 [20] INFO  Umbraco.Web.UI.Install.InstallerRestService - [Thread 10] Hitting Page_Load on InstallerRestService.aspx for the requested 'developervids' feed
+2013-08-12 22:07:19,721 [20] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2013-06-13 22:07:19
+2013-08-12 22:07:19,723 [20] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2013-08-12 22:07:26,001 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Determining hash of code files on disk
+2013-08-12 22:07:26,022 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Hash determined (took 10ms)
+2013-08-12 22:07:26,034 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:07:26,268 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 232ms)
+2013-08-12 22:07:26,382 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:07:26,391 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 8ms)
+2013-08-12 22:07:26,392 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:07:26,396 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
+2013-08-12 22:07:26,397 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:07:26,403 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 6ms)
+2013-08-12 22:07:26,404 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:07:26,419 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2013-08-12 22:07:26,422 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:07:26,433 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 10ms)
+2013-08-12 22:07:26,641 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Initializing Examine and binding to business logic events
+2013-08-12 22:07:27,201 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Adding examine event handlers for index providers: 3
+2013-08-12 22:07:27,224 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 22:07:27,238 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 13ms)
+2013-08-12 22:07:27,411 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:07:27,447 [19] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 35ms)
+2013-08-12 22:07:34,335 [19] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2013-08-12 22:07:34,341 [19] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 5ms)
+2013-08-12 22:07:34,517 [19] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:07:34,551 [19] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 34ms)
+2013-08-12 22:07:37,467 [19] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 22:07:37,482 [19] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 15ms)
+2013-08-12 22:08:48,351 [19] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2013-06-13 22:08:48
+2013-08-12 22:08:48,355 [19] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2013-08-12 22:08:55,016 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2013-08-12 22:08:55,040 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 16ms)
+2013-08-12 22:08:55,049 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 22:08:55,260 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 210ms)
+2013-08-12 22:08:55,292 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 22:08:55,307 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 15ms)
+2013-08-12 22:08:55,308 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 22:08:55,322 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 2 (took 13ms)
+2013-08-12 22:08:55,322 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 22:08:55,330 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 7ms)
+2013-08-12 22:08:55,332 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 22:08:55,337 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2013-08-12 22:08:55,337 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 22:08:55,354 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 16ms)
+2013-08-12 22:08:55,537 [20] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2013-08-12 22:08:56,097 [20] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2013-08-12 22:08:56,106 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 22:08:56,126 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 20ms)
+2013-08-12 22:08:56,293 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:08:56,332 [20] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 38ms)
+2013-08-12 22:08:59,157 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 22:08:59,164 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 6ms)
+2013-08-12 22:08:59,417 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2013-08-12 22:08:59,435 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 18ms)
+2013-08-12 22:09:04,342 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.IDataType
+2013-08-12 22:09:04,373 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 30ms)
+2013-08-12 22:09:04,384 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:09:04,428 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 44ms)
+2013-08-12 22:09:06,747 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 22:09:06,757 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 9ms)
+2013-08-12 22:09:06,773 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:09:06,801 [20] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 28ms)
+2013-08-12 22:09:06,844 [20] INFO  umbraco.content - [Thread 6] Loading content from database...
+2013-08-12 22:09:08,982 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 22:09:08,983 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 0ms)
+2013-08-12 22:09:08,988 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2013-08-12 22:09:08,996 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 7ms)
+2013-08-12 22:09:08,996 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2013-08-12 22:09:08,996 [20] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 0ms)
+2013-08-12 22:09:10,007 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:09:11,075 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Login' with Id '1089' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Sitemap' with Id '1083' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Search' with Id '1082' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'News' with Id '1077' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Content Panels' with Id '1094' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Slideshow' with Id '1090' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Insufficent Access' with Id '1088' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Client Area' with Id '1084' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Contact Us' with Id '1080' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Clients' with Id '1079' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'About' with Id '1073' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Sample Panel' with Id '1096' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Introductory Offers' with Id '1095' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Umbraco Speechbubble' with Id '1093' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Red Dice' with Id '1092' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Purple Hat' with Id '1091' has been published.
+2013-08-12 22:09:11,076 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Client Area 2' with Id '1087' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Client Area 1' with Id '1085' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Thank You' with Id '1081' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Article 1' with Id '1078' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Sub Navigation 2' with Id '1076' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Sub Navigation 1' with Id '1074' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Page 1' with Id '1086' has been published.
+2013-08-12 22:09:11,077 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content '3rd level nav 2' with Id '1075' has been published.
+2013-08-12 22:09:15,509 [20] INFO  umbraco.content - [Thread 6] Loading content from database...
+2013-08-12 22:09:15,773 [20] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 23] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at umbraco.cms.businesslogic.web.Access.RenameMemberShipRole(String oldRolename, String newRolename)
+   at umbraco.cms.businesslogic.member.MemberGroup.Save()
+   at usercontrols_StandardWebsiteInstall.SetupClientArea(Int32 clientAreaId, Int32 loginPageId, Int32 errorPageId)
+   at usercontrols_StandardWebsiteInstall.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_developer_packages_installer_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-08-12 22:11:36,116 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 24] Couldn't find any page with nodeId=1048. This is most likely caused by the page not being published.
+2013-08-12 22:11:40,083 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 24] Couldn't find any page with nodeId=1127. This is most likely caused by the page not being published.
+2013-08-12 22:11:50,058 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 13] Couldn't find any page with nodeId=1048. This is most likely caused by the page not being published.
+2013-08-12 22:11:50,060 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 13] Couldn't find any page with nodeId=1127. This is most likely caused by the page not being published.
+2013-08-12 22:18:55,485 [20] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.BaseRest.RestExtensionAttribute
+2013-08-12 22:18:55,506 [20] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.BaseRest.RestExtensionAttribute, found 2 (took 20ms)
+2013-08-12 22:32:50,879 [20] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2013-08-12 22:32:50,965 [20] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 86ms)
+2013-08-12 22:36:53,100 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:37:05,273 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1048. This is most likely caused by the page not being published.
+2013-08-12 22:37:05,300 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1127. This is most likely caused by the page not being published.
+2013-08-12 22:37:12,065 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 10] Couldn't find any page with nodeId=1048. This is most likely caused by the page not being published.
+2013-08-12 22:37:12,069 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 10] Couldn't find any page with nodeId=1127. This is most likely caused by the page not being published.
+2013-08-12 22:39:03,756 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:41:25,117 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 8] Content 'Purple Hat' with Id '1091' has been published.
+2013-08-12 22:44:42,583 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Purple Hat' with Id '1091' has been published.
+2013-08-12 22:45:11,711 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:45:38,223 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:45:58,325 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 10] Content 'Purple Hat' with Id '1091' has been unpublished.
+2013-08-12 22:46:02,366 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Purple Hat' with Id '1091' is trashed and could not be published.
+2013-08-12 22:46:04,258 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 26] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 22:46:07,889 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 10] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 22:47:01,535 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 7] Content 'Slideshow' with Id '1090' has been published.
+2013-08-12 22:47:03,741 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 9] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 22:51:29,970 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:51:36,281 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 5] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 22:58:18,549 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'Home' with Id '1072' has been published.
+2013-08-12 22:58:23,196 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 5] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:00:06,781 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 27] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:00:42,099 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 7] Content 'Home' with Id '1072' has been published.
+2013-08-12 23:00:50,389 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 27] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:00:57,657 [20] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'Home' with Id '1072' has been published.
+2013-08-12 23:01:00,371 [20] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 15] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:05:08,159 [20] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2013-06-13 23:05:08
+2013-08-12 23:05:08,203 [20] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 27] Application shutdown. Reason: ConfigurationChange
+2013-08-12 23:05:26,491 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2013-08-12 23:05:26,537 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 33ms)
+2013-08-12 23:05:26,548 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 23:05:33,103 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 6553ms)
+2013-08-12 23:05:33,188 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 23:05:33,194 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+2013-08-12 23:05:33,196 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 23:05:33,201 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 2 (took 5ms)
+2013-08-12 23:05:33,202 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 23:05:33,207 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 5ms)
+2013-08-12 23:05:33,209 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 23:05:33,214 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2013-08-12 23:05:33,214 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 23:05:33,220 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2013-08-12 23:05:33,707 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2013-08-12 23:05:36,027 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2013-08-12 23:05:36,047 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 23:05:36,063 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 16ms)
+2013-08-12 23:05:36,218 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 23:05:36,247 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 28ms)
+2013-08-12 23:36:39,588 [19] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2013-06-13 23:36:39
+2013-08-12 23:36:39,597 [19] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 10] Application shutdown. Reason: ConfigurationChange
+2013-08-12 23:37:04,585 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Determining hash of code files on disk
+2013-08-12 23:37:04,601 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Hash determined (took 11ms)
+2013-08-12 23:37:04,610 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 23:37:06,122 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1511ms)
+2013-08-12 23:37:06,146 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 23:37:06,152 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 6ms)
+2013-08-12 23:37:06,154 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 23:37:06,162 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 2 (took 8ms)
+2013-08-12 23:37:06,163 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 23:37:06,169 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 6ms)
+2013-08-12 23:37:06,170 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 23:37:06,178 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2013-08-12 23:37:06,179 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 23:37:06,184 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2013-08-12 23:37:06,336 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Initializing Examine and binding to business logic events
+2013-08-12 23:37:06,759 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Adding examine event handlers for index providers: 3
+2013-08-12 23:37:06,768 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 23:37:06,781 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 12ms)
+2013-08-12 23:37:06,939 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 23:37:06,974 [29] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 35ms)
+2013-08-12 23:37:08,674 [29] INFO  umbraco.content - [Thread 6] Loading content from disk cache...
+2013-08-12 23:37:09,850 [29] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 23:37:10,035 [29] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 184ms)
+2013-08-12 23:37:35,418 [29] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 34] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:37:39,952 [29] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 34] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:40:07,034 [29] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2013-06-13 23:40:07
+2013-08-12 23:40:07,045 [29] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 10] Application shutdown. Reason: ConfigurationChange
+2013-08-12 23:40:11,761 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Determining hash of code files on disk
+2013-08-12 23:40:11,781 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Hash determined (took 15ms)
+2013-08-12 23:40:11,789 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-08-12 23:40:13,132 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1341ms)
+2013-08-12 23:40:13,155 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-08-12 23:40:13,161 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 6ms)
+2013-08-12 23:40:13,163 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-08-12 23:40:13,168 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 2 (took 5ms)
+2013-08-12 23:40:13,171 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-08-12 23:40:13,177 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 2 (took 5ms)
+2013-08-12 23:40:13,178 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-08-12 23:40:13,187 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2013-08-12 23:40:13,187 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-08-12 23:40:13,198 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 11ms)
+2013-08-12 23:40:13,349 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Initializing Examine and binding to business logic events
+2013-08-12 23:40:13,840 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Adding examine event handlers for index providers: 3
+2013-08-12 23:40:13,873 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplication
+2013-08-12 23:40:13,888 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 14ms)
+2013-08-12 23:40:14,173 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2013-08-12 23:40:14,209 [29] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 35ms)
+2013-08-12 23:40:17,044 [29] INFO  umbraco.content - [Thread 6] Loading content from disk cache...
+2013-08-12 23:40:17,436 [29] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-08-12 23:40:17,538 [29] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 77ms)
+2013-08-12 23:40:17,866 [29] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 6] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:41:58,030 [29] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 6] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.
+2013-08-12 23:41:59,070 [29] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 6] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): c:\Users\Erik\Documents\Visual Studio 2012\Projects\UmbTest2\UmbTest2\Views\SW_Master.cshtml(65): error CS0135: 'item' conflicts with the declaration 'umbraco.item'
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(String virtualPath, Type requiredBaseType)
+   at System.Web.WebPages.BuildManagerWrapper.CreateInstanceOfType[T](String virtualPath)
+   at System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   at System.Web.WebPages.VirtualPathFactoryManager.CreateInstanceOfType[T](String virtualPath)
+   at System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   at System.Web.WebPages.WebPageBase.CreatePageFromVirtualPath(String virtualPath, HttpContextBase httpContext, Func`2 virtualPathExists, DisplayModeProvider displayModeProvider, IDisplayMode displayMode)
+   at System.Web.WebPages.WebPageBase.<>c__DisplayClass7.<RenderPageCore>b__6(TextWriter writer)
+   at System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   at System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   at System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   at System.Web.WebPages.WebPageBase.PopContext()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at StackExchange.Profiling.MVCHelpers.WrappedView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-08-12 23:42:17,032 [29] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 10] Couldn't find any page with nodeId=1091. This is most likely caused by the page not being published.

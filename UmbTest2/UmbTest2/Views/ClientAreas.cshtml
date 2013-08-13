@@ -1,0 +1,24 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+      Layout = "SW_Master.cshtml";
+      var pages = Model.Content.Children.Where(x => x.IsVisible() && x.TemplateId > 0 && Umbraco.MemberHasAccess(x.Id, x.Path));
+}
+ <div id="mainContent" class="fc">
+      
+      <div class="navigation">
+        @Html.Partial("LeftNavigation",@Model.Content)
+      &nbsp;
+      </div>
+
+       <div id="content">
+            @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+
+           @foreach (var page in pages)
+             {
+                 <h3><a href="@page.NiceUrl()">@page.Name</a></h3>
+             }
+             
+       </div>
+     
+        
+    </div>

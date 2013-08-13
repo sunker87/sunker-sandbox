@@ -1,0 +1,31 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<Koiak.StandardWebsite.ContactFormModel>
+@{
+    Layout = null;
+}
+
+<h3>Contact Form</h3>
+@using (Html.BeginUmbracoForm("SendEmail", "ContactFormSurface"))
+{
+    <div class="formRow">
+        @Html.LabelFor(x => Model.Name)
+        @Html.EditorFor(x => Model.Name)
+        @Html.ValidationMessageFor(x => Model.Name)
+        </div>
+    
+    <div class="formRow">
+        @Html.LabelFor(x => Model.Email)
+        @Html.EditorFor(x => Model.Email)
+        @Html.ValidationMessageFor(x => Model.Email)
+        </div>
+    
+    <div class="formRow">
+        @Html.LabelFor(x => Model.Comment)
+        @Html.EditorFor(x => Model.Comment)
+        @Html.ValidationMessageFor(x => Model.Comment)
+        </div>
+    
+    
+<div class="buttonRow">
+    <input type="submit" name="Submit"/>
+    </div>
+}

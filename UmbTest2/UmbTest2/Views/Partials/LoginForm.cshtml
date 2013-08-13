@@ -1,0 +1,24 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<Koiak.StandardWebsite.LoginModel>
+@{
+    Layout = null;
+}
+
+@using (Html.BeginUmbracoForm("LoginForm", "AccountSurface"))
+{
+    <div class="formRow">
+        @Html.LabelFor(x => Model.Username)
+        @Html.EditorFor(x => Model.Username)
+        @Html.ValidationMessageFor(x => Model.Username)
+        </div>
+    
+    <div class="formRow">
+        @Html.LabelFor(x => Model.Password)
+        @Html.EditorFor(x => Model.Password)
+        @Html.ValidationMessageFor(x => Model.Password)
+        </div>
+    
+    
+<div class="buttonRow">
+    <input type="submit" name="Submit"/>
+    </div>
+}

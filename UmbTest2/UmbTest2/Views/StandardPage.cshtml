@@ -1,0 +1,17 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SW_Master.cshtml";
+}
+ <div id="mainContent" class="fc">
+      
+      <div class="navigation">
+        @Html.Partial("LeftNavigation",@Model.Content)
+      &nbsp;
+      </div>
+
+       <div id="content">
+            @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+       </div>
+     
+        @Html.Partial("ContentPanels",@Model.Content)
+    </div>

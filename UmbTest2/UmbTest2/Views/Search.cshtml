@@ -1,0 +1,138 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using Lucene.Net;
+@using Examine;
+@using Examine.LuceneEngine.SearchCriteria;
+
+@{
+    Layout = "SW_Master.cshtml";
+
+
+    int pageSize = 10; // How many items per page
+    int page; // The page we are viewing
+    string searchTerm = Context.Request.QueryString["search"];
+
+    /* Set up parameters */
+
+    if (!int.TryParse(Request.QueryString["page"], out page))
+    {
+        page = 1;
+    }
+
+    /* This is your basic query to select the nodes you want */
+
+    Examine.Providers.BaseSearchProvider baseSearchProvider = ExamineManager.Instance.DefaultSearchProvider;
+    IEnumerable<SearchResult> nodes = null;
+    //ISearchResults nodes = null;
+    Lucene.Net.Search.Searcher luceneSearcher = null;
+    int totalNodes = 0;
+    int totalPages = 0;
+
+    if (!String.IsNullOrEmpty(searchTerm))
+    {
+        //nodes = baseSearchProvider.Search(searchTerm, true);
+        var searchCriteria = Examine.ExamineManager.Instance.CreateSearchCriteria(Examine.SearchCriteria.BooleanOperation.And);
+
+        var query = searchCriteria.GroupedOr(
+            new string[] { "nodeName", "bodyText", "panelContent1", "panelContent2", "panelContent3", "articleSummary"},searchTerm.Fuzzy(0.7f))
+            .Compile();
+
+        var results = baseSearchProvider.Search(query); //.OrderByDescending(x => x.Score)
+        luceneSearcher = ((Examine.LuceneEngine.SearchResults)results).LuceneSearcher;
+        nodes = results.OrderByDescending(x => x.Score);
+
+        totalNodes = nodes.Count();
+        totalPages = (int)Math.Ceiling((double)totalNodes / (double)pageSize);
+
+        /* Bounds checking */
+
+        if (page > totalPages)
+        {
+            page = totalPages;
+        }
+        else if (page < 1)
+        {
+            page = 1;
+        }
+    }
+    
+}
+<div id="mainContent" class="fc">
+    <div class="navigation">
+        @Html.Partial("LeftNavigation", @Model.Content)
+        &nbsp;
+     
+    </div>
+
+    <div id="content">
+        @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+
+        @if (totalNodes == 0)
+        {
+            <p>No results match your search</p>
+        }
+        else
+        {
+            <ul id="newsList">
+                @foreach (var item in nodes.Skip((page - 1) * pageSize).Take(pageSize))
+                {
+                    <li>
+                        <h3>
+                            <a href="@Umbraco.NiceUrl(Convert.ToInt32(@item.Fields["id"]))">
+                                @item.Fields["nodeName"]
+                            </a>
+                        </h3>
+                        @{
+                    string fieldName = "bodyText";
+                    string searchHiglight = "";
+
+                    if (item.Fields.ContainsKey(fieldName))
+                    {
+                        string fieldValue = item.Fields[fieldName];
+                        searchHiglight = LuceneHighlightHelper.Instance.GetHighlight(fieldValue, fieldName, luceneSearcher, searchTerm);
+
+                        if (String.IsNullOrEmpty(searchHiglight))
+                        {
+                            searchHiglight = Umbraco.Truncate(fieldValue, 200).ToString();
+                        }
+                        else
+                        {
+                            searchHiglight = System.Text.RegularExpressions.Regex.Replace(searchHiglight, searchTerm, "<strong>" + searchTerm + "</strong>", System.Text.RegularExpressions.RegexOptions.IgnoreCase);
+                        }
+                    }
+                        }
+
+                        <p>@Html.Raw(searchHiglight)</p>
+
+                        <!--<dl>
+                      
+                  @foreach (var field in item.Fields)
+                  {
+                      <dt>@field.Key</dt>
+                      <dd>@field.Value</dd>
+                  }
+                      </dl>-->
+                    </li>   
+                }
+            </ul>
+        }
+
+        @if (totalPages > 1)
+        {
+
+            <p id="pager">
+                @for (int p = 1; p < totalPages + 1; p++)
+                {
+                    //string selected = (p == page) ? "selected" : String.Empty;
+                    //<li class="@selected"><a href="?page=@p" title="Go to page @p of results">@p</a></li> 
+                    <a href="?search=@searchTerm&amp;page=@p" title="Go to page @p of results">@p</a>
+                    if (p < totalPages)
+                    {
+                    <text>| </text>
+                    }
+                }
+            </p>
+        }
+    </div>
+
+    @Html.Partial("ContentPanels", @Model.Content)
+</div>

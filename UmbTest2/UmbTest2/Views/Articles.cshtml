@@ -1,0 +1,101 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SW_Master.cshtml";
+    int pageSize = 2; // How many items per page
+    int page; // The page we are viewing
+
+    /* Set up parameters */
+
+    if (!int.TryParse(Request.QueryString["page"], out page))
+    {
+        page = 1;
+    }
+
+    /* This is your basic query to select the nodes you want */
+
+    var nodes = Model.Content.Children.Where(x => x.DocumentTypeAlias == "NewsArticle").OrderBy(x=>x.CreateDate);
+
+    int totalNodes = nodes.Count();
+    int totalPages = (int)Math.Ceiling((double)totalNodes / (double)pageSize);
+
+    /* Bounds checking */
+
+    if (page > totalPages)
+    {
+        page = totalPages;
+    }
+    else if (page < 1)
+    {
+        page = 1;
+    }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+ <div id="mainContent" class="fc">
+      <div class="navigation">
+        @Html.Partial("LeftNavigation",@Model.Content)
+      &nbsp;
+      </div>
+
+       <div id="content">
+       
+            @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+
+           
+               <ul id="newsList">
+    @foreach (var item in nodes.Skip((page - 1) * pageSize).Take(pageSize))
+    {
+     <li>
+            <h3>
+              <a href="@item.NiceUrl()">
+                @item.Name
+              </a>
+            </h3>
+            <p class="articleDate">
+                @Convert.ToDateTime(item.GetPropertyValue("articleDate")).ToString("dd MMMM yyyy")
+            </p>
+            <p>
+                @item.GetPropertyValue("articleSummary")
+              
+            </p>
+        </li>   
+    }
+</ul>
+
+@if(totalPages > 1)
+{
+
+      <p id="pager">
+    @for (int p = 1; p < totalPages + 1; p++)
+    {
+        //string selected = (p == page) ? "selected" : String.Empty;
+        //<li class="@selected"><a href="?page=@p" title="Go to page @p of results">@p</a></li> 
+        <a href="?page=@p" title="Go to page @p of results">@p</a>
+        if (p < totalPages)
+        {
+            <text>| </text>
+        }
+    }
+</p>
+}
+
+
+       </div>
+     
+        @Html.Partial("ContentPanels",@Model.Content)
+    </div>

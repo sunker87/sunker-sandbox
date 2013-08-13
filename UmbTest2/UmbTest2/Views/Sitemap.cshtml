@@ -1,0 +1,39 @@
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SW_Master.cshtml";
+}
+ <div id="mainContent" class="fc">
+      
+      <div class="navigation">
+        @Html.Partial("LeftNavigation",@Model.Content)
+      &nbsp;
+      </div>
+
+       <div id="content">
+            @Html.Raw(Model.Content.GetPropertyValue<string>("bodyText"))
+           
+    <div id="sitemap">
+            @traverse(Model.Content.AncestorOrSelf(1))
+        </div>
+
+       </div>
+     
+        @Html.Partial("ContentPanels",@Model.Content)
+    </div>
+
+@helper traverse(IPublishedContent node)
+{
+ var cc = node.Children.Where(x=>x.IsVisible() && x.TemplateId > 0);                        
+ if (cc.Count()>0)
+ {
+  <ul>
+  @foreach (var c in cc)
+  {
+  <li>
+   <a href="@c.NiceUrl()">@c.Name</a>
+   @traverse(c)
+  </li>
+  }
+  </ul>
+ }
+}

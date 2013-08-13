@@ -1,0 +1,74 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<IPublishedContent>
+@{
+    Layout = null;
+
+    var image1 = Model.GetPropertyValue<string>("affiliationImage1");
+    var image2 = Model.GetPropertyValue<string>("affiliationImage2");
+    var image3 = Model.GetPropertyValue<string>("affiliationImage3");
+
+    var link1 = Model.GetPropertyValue<string>("affiliationLink1");
+    var link2 = Model.GetPropertyValue<string>("affiliationLink2");
+    var link3 = Model.GetPropertyValue<string>("affiliationLink3");
+}
+<ul class="fc">
+    @if (!String.IsNullOrEmpty(image1))
+    {
+
+        <li>
+            @{
+
+          if (!String.IsNullOrEmpty(link1))
+          {
+                <a href="@link1">
+                    <img src="@image1" alt="@link1" />
+                </a>
+          }
+          else
+          {
+
+                <img src="@image1" alt="" />
+      }
+ }
+        </li>
+      }
+    @if (!String.IsNullOrEmpty(image2))
+    {
+
+        <li>
+            @{
+
+          if (!String.IsNullOrEmpty(link2))
+          {
+                <a href="@link2">
+                    <img src="@image2" alt="@link2" />
+                </a>
+          }
+          else
+          {
+
+                <img src="@image2" alt="" />
+      }
+ }
+        </li>
+      }
+    @if (!String.IsNullOrEmpty(image3))
+    {
+
+        <li>
+            @{
+
+          if (!String.IsNullOrEmpty(link3))
+          {
+                <a href="@link3">
+                    <img src="@image3" alt="@link3" />
+                </a>
+          }
+          else
+          {
+
+                <img src="@image3" alt="" />
+      }
+ }
+        </li>
+      }
+</ul>
